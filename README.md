@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently deepening my knowledge of **AWS Cloud Practitioner, Terraform, Jenkins, and Red Hat OpenShift**
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AbdallahHesham44)
-
 - 📄 Check out my CV [here](https://drive.google.com/file/d/1kW5G__TkNOVIlLB_DVBqCp_T2LEciqZU/view?usp=sharing)
 
 - 📫 You can reach me at **abdallah.hesham.102@gmail.com**
