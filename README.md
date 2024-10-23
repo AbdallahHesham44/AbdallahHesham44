@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AbdallahHesham44)
 
-- 📄 Check out my resume [here](https://drive.google.com/file/d/1FGG4IA57I4D8d1_4CLD0eFjSdcDw5ItM/view?usp=sharing)
+- 📄 Check out my CV [here](https://drive.google.com/file/d/1kW5G__TkNOVIlLB_DVBqCp_T2LEciqZU/view?usp=sharing)
 
 - 📫 You can reach me at **abdallah.hesham.102@gmail.com**
 
